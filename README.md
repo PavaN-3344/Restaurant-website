@@ -1,17 +1,25 @@
 ## 📸 Project Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="45%" alt="Home Page" />
-  <img src="screenshots/menu.png" width="45%" alt="Menu Page" />
-</p>
-<p align="center">
-  <b>Home Page</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Menu Page</b>
-</p>
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <p><b>Home Page</b></p>
+    <img src="screenshots/home.png" width="350px" />
+  </div>
 
-<p align="center">
-  <img src="screenshots/team.png" width="45%" alt="Team Page" />
-  <img src="screenshots/contact.png" width="45%" alt="Contact Page" />
-</p>
-<p align="center">
-  <b>Team Page</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Contact Page</b>
-</p>
+  <div style="display: inline-block; margin: 10px;">
+    <p><b>Menu Page</b></p>
+    <img src="screenshots/menu.png" width="350px" />
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <p><b>Team Page</b></p>
+    <img src="screenshots/team.png" width="350px" />
+  </div>
+
+  <div style="display: inline-block; margin: 10px;">
+    <p><b>Contact Page</b></p>
+    <img src="screenshots/contact.png" width="350px" />
+  </div>
+</div>
